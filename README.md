@@ -1,7 +1,9 @@
 # projeto-phising-linux
 Este é um repositório para o projeto de formação em Cybersecurity Specialist da DIO, ministrado por Cassiano Ricardo de Oliveira Peres ([@cassiano-dio](https://github.com/cassiano-dio)). O curso aborda tópicos importantes em segurança cibernética.
 
-O objetivo deste repositório é relatar o uso do SEToolkit para clonar o layout de um site e colher informações credenciais de um formulário de login, contendo endereço de e-mail e senha. Na primeira tentativa, foi utilizado o Facebook como site alvo. No entanto, por algum motivo, no site clone, o botão para concluir o formulário de login deixou de funcionar. Portanto, não foi possível receber nenhuma informação no SEToolkit. 
+O objetivo deste repositório é relatar o uso do SEToolkit para clonar o layout de um site e colher informações credenciais de um formulário de login, contendo endereço de e-mail e senha. 
+
+Na primeira tentativa, foi utilizado o Facebook como site alvo. No entanto, por algum motivo, no site clone, o botão para concluir o formulário de login deixou de funcionar. Portanto, não foi possível receber nenhuma informação no SEToolkit. 
 
 Após várias tentativas, foi decidido trocar o site alvo para o GitHub. O processo de construção do site clone foi reiniciado e as informações de e-mail e senha foram inseridas no formulário de login do GitHub:
 
